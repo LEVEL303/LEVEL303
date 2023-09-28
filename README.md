@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub!
 Gosto muito de programação e de tudo mais que tenha a ver com o mundo da tecnologia. Amo aprender coisas novas e, assim, aprimorar cada vez mais as minhas habilidades. 🖥️
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LEVEL303&show_icons=true&theme=tokyonight)
+![Levítico GitHub stats](https://github-readme-stats.vercel.app/api?username=LEVEL303&show_icons=true&theme=tokyonight)
 
 <hr>
 
