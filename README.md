@@ -16,9 +16,3 @@ Gosto muito de programação e de tudo mais que tenha a ver com o mundo da tecno
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div><br>
-<hr>
-
-### Hobbies
-🎮 Jogar <br>
-📖 Estudar <br>
-📺 Assistir animes <br>
