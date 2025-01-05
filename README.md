@@ -1,7 +1,6 @@
 ### Olá! Meu nome é Levítico Rimon 🖐️
 
-Bem-vindo ao meu perfil do GitHub!
-Gosto muito de programação e de tudo mais que tenha a ver com o mundo da tecnologia. Gosto de aprender coisas novas e, assim, aprimorar cada vez mais as minhas habilidades. 🖥️
+Bem-vindo ao meu perfil do GitHub! Sou apaixonado por programação e tecnologia. Adoro aprender coisas novas para aprimorar constantemente minhas habilidades. 🖥️
 <hr>
 
 ![Levítico GitHub stats](https://github-readme-stats.vercel.app/api?username=LEVEL303&show_icons=true&theme=tokyonight)
